@@ -1,1 +1,1 @@
-# responsive-web-page-bootstrap
+Responsive web page exercise using Bootstrap.
